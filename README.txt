@@ -27,4 +27,8 @@ Beyond the screen, you can find me exploring the intersections of technology and
 Let's Connect:
 I'm always open to connecting with fellow tech enthusiasts, industry professionals, and anyone passionate about the incredible world of software engineering. Feel free to reach out for discussions on technology trends, collaborative opportunities, or just to share your favorite coding challenges.
 
+Thanks. This static page is a result of their help:
+using template from https://html5up.net/
+using pictures from https://unsplash.com/
+https://www.youtube.com/watch?v=u-RLu_8kwA0
  
