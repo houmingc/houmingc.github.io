@@ -9,6 +9,11 @@ My journey in the world of software engineering began with a fascination for how
 Expertise:
 My expertise spans a wide range of technologies and programming languages, including but not limited to Java, Python, and JavaScript. From backend development to creating intuitive user interfaces, I enjoy the full spectrum of software engineering, always staying updated with the latest industry trends and best practices.
 
+
+Project Done:
+Using a Raspberry Pi Model 4B with a Modbus Ethernet cable, the Raspberry Pi reads registers and collects data from a CrySound sound meter. Equipped with a HAT 4G/LTE modem kit, it sends AT commands to transmit the data to a backend server.
+
+
 Problem Solver:
 I thrive in problem-solving environments, relishing the opportunity to dissect challenges and develop robust solutions. Whether it's optimizing code for performance, debugging intricate issues, or architecting scalable systems, I approach each task with precision and a commitment to excellence.
 
